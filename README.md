@@ -1,4 +1,5 @@
-#22100454 오지훈
+# 1주차 과제 
+22100454 오지훈
 
 - Netlify Link: https://timely-churros-9306d6.netlify.app/
 - nostyle: https://timely-churros-9306d6.netlify.app/nostyle
