@@ -5,7 +5,8 @@
 - nostyle: https://timely-churros-9306d6.netlify.app/nostyle
 - style1: https://timely-churros-9306d6.netlify.app/style1
 - style2: https://timely-churros-9306d6.netlify.app/style2
-- example: https://timely-churros-9306d6.netlify.app/example
+- bootstrap 예시: https://getbootstrap.com/docs/5.3/examples/pricing/#
+- bootstrap 구현 연습: https://timely-churros-9306d6.netlify.app/example
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/i6LrUyDP)
